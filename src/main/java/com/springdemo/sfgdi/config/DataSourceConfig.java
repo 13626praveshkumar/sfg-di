@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
 //Java based Spring Configuration
-@PropertySource("classpath:datasource.properties")
+
 @Configuration
 public class DataSourceConfig {
 
